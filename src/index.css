@@ -1,0 +1,16 @@
+/* header CSS */
+.header {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid rgb(194, 172, 172);
+}
+.header ul{
+  display: flex;
+  column-gap: 10px;
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
